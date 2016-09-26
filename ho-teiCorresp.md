@@ -1,9 +1,9 @@
-#### Cheatsheet: Elemente für die Auszeichnung von Korrespondenzen in TEI
+#Cheatsheet: Elemente für die Auszeichnung von Korrespondenzen in TEI
 
 **ACDH Tool Gallery 2.2: TEI Basics – A gentle introduction to Text Encoding**,  
 Wien, 26. September 2016
 
-##### Korrespondenzspezifische Metadaten
+## Korrespondenzspezifische Metadaten
 
 **`<correspDesc>`** Stellt detaillierte, für Korrespodenzen spezifische Metadaten zur Verfügung, unter besonderer Berücksichtigung der kommunikativen Aspekte. Innerhalb von `<profileDesc>`, enthält `<correspAction>` und `<correspContext>`.   
 <http://www.tei-c.org/release/doc/tei-p5-doc/de/html/ref-correspDesc.html>
@@ -16,8 +16,8 @@ Wien, 26. September 2016
 <http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-correspContext.html>
 
 
-##### Auszeichnung von Textstrukturen in Briefen
-###### Allgemeine Elemente
+## Auszeichnung von Textstrukturen in Briefen
+### Allgemeine Elemente
 **`<div>`** kodiert einen Unterabschnitt in einem Text.  
 <http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-div.html>
 
@@ -31,7 +31,7 @@ Wien, 26. September 2016
 <http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-lb.html>
 
 
-###### Briefspezifisch
+### Briefspezifisch
 **`<opener/>`** Fasst Datumszeile, Verfasserangabe, Anredeformeln und ähnliche Angaben zusammen, die am Beginn eines Briefes stehen.  
 <http://www.tei-c.org/release/doc/tei-p5-doc/de/html/ref-opener.html>
 
@@ -50,7 +50,7 @@ Wien, 26. September 2016
 **`<postscript/>`** enkodiert das Postskriptum z.B. eines Briefes.   
 <http://www.tei-c.org/release/doc/tei-p5-doc/de/html/ref-postscript.html>
 
-##### Named Entities  
+## Named Entities  
 **`<persName>`** enthält einen Eigennamen oder -phrase, der auf eine Person referenziert.   
 <http://www.tei-c.org/release/doc/tei-p5-doc/de/html/ref-persName.html>
 
@@ -60,15 +60,16 @@ Wien, 26. September 2016
 **`<rs>`** *Reference string* kodiert einen allgemeinen Namen oder einen kontextabhängigen Verweis auf eine Person/ eine Ort... `@type` bezeichnet die Art des Ziels.  
 <http://www.tei-c.org/release/doc/tei-p5-doc/de/html/ref-persName.html>
 
-##### Links
+## Links
 * [Carl Maria von Weber Gesamtausgabe, Briefedition][wega]
 * [correspSearch][correspSearch]
 * [TEI correspondence SIG][sig]
 
-##### Bibliography
+## Bibliography
 *Peter Stadler, Marcel Illetschko, and Sabine Seifert, «Towards a Model for Encoding Correspondence in the TEI: Developing and Implementing <correspDesc>», Journal of the Text Encoding Initiative [Online], Issue 9|2016, Online since 30 August 2016, connection on 22 September 2016. URL: http://jtei.revues.org/1433; DOI: 10.4000/jtei.1433*
 
-Gerlinde Schneider 2016, <gerlinde.schneider@uni-graz.at>  
+Gerlinde Schneider 2016, <gerlinde.schneider@uni-graz.at>
+
 [![Creative Commons Attribution-ShareAlike 4.0 International License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
 
 [wega]: http://weber-gesamtausgabe.de/de/Register/Briefe
