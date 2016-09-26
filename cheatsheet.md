@@ -72,7 +72,7 @@ Wien, 26. September 2016
 
 Gerlinde Schneider 2016, <gerlinde.schneider@uni-graz.at>
 
-[![Creative Commons Attribution-ShareAlike 4.0 International License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
+Dieser Inhalt steht unter einer [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/)
 
 [wega]: http://weber-gesamtausgabe.de/de/Register/Briefe
 [correspSearch]: http://correspsearch.net
