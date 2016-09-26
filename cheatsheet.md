@@ -6,7 +6,7 @@ Wien, 26. September 2016
 ## Korrespondenzspezifische Metadaten
 
 **`<correspDesc>`** Stellt detaillierte, für Korrespodenzen spezifische Metadaten zur Verfügung, unter besonderer Berücksichtigung der kommunikativen Aspekte. Innerhalb von `<profileDesc>`, enthält `<correspAction>` und `<correspContext>`.   
-<http://www.tei-c.org/release/doc/tei-p5-doc/de/html/ref-correspDesc.html>
+<http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-correspDesc.html>
 
 **`<correspAction>`** enthält eine strukturierte Beschreibung von Ort, Person/Organisation und Datum von mit der Korrespondenz verbundener Aktionen, z.B. das Senden oder Empfangen der Nachricht.
 `@type`	beschreibt die Art der Aktion. Empfohlene Werte: `sent`, ` received`, `transmitted`, `redirected`, `forwarded`.  
@@ -33,32 +33,32 @@ Wien, 26. September 2016
 
 ### Briefspezifisch
 **`<opener/>`** Fasst Datumszeile, Verfasserangabe, Anredeformeln und ähnliche Angaben zusammen, die am Beginn eines Briefes stehen.  
-<http://www.tei-c.org/release/doc/tei-p5-doc/de/html/ref-opener.html>
+<http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-opener.html>
 
 **`<closer/>`** Fasst Datumszeile, Verfasserangabe, Grußformeln und ähnliche Angaben zusammen, die am Ende eines Briefes  stehen.  
-<http://www.tei-c.org/release/doc/tei-p5-doc/de/html/ref-closer.html>
+<http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-closer.html>
 
 **`<salute/>`** enthält eine Anrede oder Grußformel. Innerhalb von `<closer>` oder `<opener>`.   
-<http://www.tei-c.org/release/doc/tei-p5-doc/de/html/ref-salute.html>
+<http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-salute.html>
 
 **`<dateline/>`** enkodiert das Datum und den Ort des Schreibens. Innerhalb von `<closer>` oder `<opener>`.  
-<http://www.tei-c.org/release/doc/tei-p5-doc/de/html/ref-salute.html>
+<http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-salute.html>
 
 **`<signed/>`** kodiert die Signatur oder den Namen des Schreibers/der Schreiberin.  
-<http://www.tei-c.org/release/doc/tei-p5-doc/de/html/ref-signed.html>
+<http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-signed.html>
 
 **`<postscript/>`** enkodiert das Postskriptum z.B. eines Briefes.   
-<http://www.tei-c.org/release/doc/tei-p5-doc/de/html/ref-postscript.html>
+<http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-postscript.html>
 
 ## Named Entities  
 **`<persName>`** enthält einen Eigennamen oder -phrase, der auf eine Person referenziert.   
-<http://www.tei-c.org/release/doc/tei-p5-doc/de/html/ref-persName.html>
+<http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-persName.html>
 
 **`<placeName>`** enthält einen Eigennamen, der auf einen Ort referenziert.   
-<http://www.tei-c.org/release/doc/tei-p5-doc/de/html/ref-persName.html>
+<http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-placeName.html>
 
 **`<rs>`** *Reference string* kodiert einen allgemeinen Namen oder einen kontextabhängigen Verweis auf eine Person/ eine Ort... `@type` bezeichnet die Art des Ziels.  
-<http://www.tei-c.org/release/doc/tei-p5-doc/de/html/ref-persName.html>
+<http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-rs.html>
 
 ## Links
 * [Carl Maria von Weber Gesamtausgabe, Briefedition][wega]
