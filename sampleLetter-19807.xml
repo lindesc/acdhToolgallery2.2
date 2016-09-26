@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Franz von Dombay an Joseph von Hammer-Purgstall. Wien, am 19. September
+               1805.</title>
+            <title level="s">Joseph von Hammer-Purgstall. Erinnerungen und Briefe</title>
+            <author>Joseph von Hammer-Purgstall</author>
+            <editor>Walter Höflechner</editor>
+            <editor>Ingrid M. Wagner</editor>
+            <respStmt>
+               <resp>Encoding</resp>
+               <!-- Tragen Sie hier Ihren Namen ein -->
+               <name>Gerlinde Schneider</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Universitätsarchiv Graz</publisher>
+            <publisher>Zentrum für Wissenschaftsgeschichte, Universität Graz</publisher>
+            <publisher>Historische Landeskommission für Steiermark</publisher>
+            <authority>Zentrum für Informationsmodellierung, Universität Graz</authority>
+            <pubPlace>Graz</pubPlace>
+            <date when="2016">2016</date>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-nc/4.0/">
+                  Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) </licence>
+            </availability>
+            <idno type="hpe">198.07</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>Österreich</country>
+                  <repository>Steiermärkisches Landesarchiv</repository>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <p>Transkriptions- und Editionsrichtlinien: 
+            <ref target="http://gams.uni-graz.at/hp">http://gams.uni-graz.at/hp</ref></p>
+      </encodingDesc>
+      <profileDesc>
+         <!-- Ergänzen Sie die Metadaten zur Korrespondenz-->
+         <correspDesc>
+            <correspAction type="sent">
+               <persName/>
+               <date when="9999"/>
+               <placeName/>
+            </correspAction>
+            <correspAction type="received">
+               <persName/>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <!-- Zeichnen Sie fehlende Absätze, Briefelemente, Personennamen und Orte aus -->
+         <div type="letter">
+            <p>Teuerster Freund!</p>
+            <p>Zu Ihrem heutigen Namensfest wünsche ich samt meiner Frau Ihnen alles nur erdenkliche
+               Gute, Glück, Gesundheit, Heil und Segen, mit der Bitte, mich ferner in Ihrem
+               freundschaftlichen Andenken zu erhalten. Mit der heutigen Post erhalten Sie die
+               letzte Abteilung jener Bücher, die mir Herr von Chabert zur weiteren Beförderung an
+               Sie übergeben hatte, und wovon Sie die erste Abteilung bereits werden bekommen haben.
+               Auch füge ich hier ein Schreiben bei, so mir der Buchhändler Kupfer zur Bestellung an
+               Sie jüngsthin übergeben hat. </p>
+            <p>Leben Sie nun wohl und lieben Sie ferner</p>
+            <p>Ihren aufrichtigen Freund</p>
+            <p>Wien Am 19. = März. 1805</p>
+            <p>Dombay</p>
+            <p>Meine freundschaftliche Empfehlung an den französischen Sekretär-Dolmetscher von
+               Jaubert; ich lasse ihm sagen, daß ich auf ihn ein wenig böse bin, daß er mich bei
+               seiner Durchreise nicht besucht hat; ich hoffe aber, daß er bei seiner Rückkunft
+               diesen Fehler verbessern und mich gewiß besuchen werde; ich habe ihn in der Wohnung
+               des französischen Botschafters gesucht, aber erfahren, daß er beim Goldenen Ochsen
+               auf dem Neuen Markt abgestiegen sei; ich verfüge mich auch dahin und erfuhr, daß er
+               in der Früh um 4 Uhr nach Konstantinopel abgereist sei.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
