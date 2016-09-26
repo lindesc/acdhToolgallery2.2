@@ -68,6 +68,8 @@ Wien, 26. September 2016
 ## Bibliography
 *Peter Stadler, Marcel Illetschko, and Sabine Seifert, «Towards a Model for Encoding Correspondence in the TEI: Developing and Implementing <correspDesc>», Journal of the Text Encoding Initiative [Online], Issue 9|2016, Online since 30 August 2016, connection on 22 September 2016. URL: http://jtei.revues.org/1433; DOI: 10.4000/jtei.1433*
 
+## License
+
 Gerlinde Schneider 2016, <gerlinde.schneider@uni-graz.at>
 
 [![Creative Commons Attribution-ShareAlike 4.0 International License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
