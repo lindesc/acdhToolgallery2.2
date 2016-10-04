@@ -18,7 +18,7 @@ Wien, 26. September 2016
 
 ## Auszeichnung von Textstrukturen in Briefen
 ### Allgemeine Elemente
-**`<div>`** kodiert einen Unterabschnitt in einem Text.  
+**`<div>`** kodiert einen Unterabschnitt im Fließtext.  
 <http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-div.html>
 
 **`<p>`** kodiert einen Absatz in Prosa.  
